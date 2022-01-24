@@ -1,2 +1,4 @@
-# pythonowanie
-LinuxHot16Challange
+# LinuxHot16Challange
+sudo
+cd
+var
